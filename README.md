@@ -17,6 +17,10 @@ Enviado por: Caio Moreno de Souza <caio@it4biz.com.br><BR>
 https://malotedigital.tjsc.jus.br/portal_hermes/numeros.jsp<BR>
 Enviado por: Caio Moreno de Souza <caio@it4biz.com.br><BR>
 
+### Secretaria de Saúde do Estado de Goiás utiliza Pentaho como ferramenta de BI
+http://kleysonrios.blogspot.com.es/2013/09/secretaria-de-saude-do-estado-de-goias.html
+Enviado por: Kleyson Rios - @kleysonr<BR>
+
 ###TCE-SP
 http://iegm.tce.sp.gov.br/<BR>
 Enviado por: Rodrigo Porto<BR>
