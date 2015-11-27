@@ -21,4 +21,5 @@ Enviado por: Caio Moreno de Souza <caio@it4biz.com.br><BR>
 http://mercadodetrabalho.mte.gov.br/pentaho/api/repos/:public:OS004:OS004_INDEX.xaction/generatedContent?ts=1426337196521<BR>
 Enviado por: Ararigleno Fernandes <ararigleno@gmail.com><BR><BR>
 
+###Explicação de como adicionar um novo caso
 Se você tem algum caso real e deseja adicionar a esta lista por favor faça um fork do projeto, altere o arquivo README.md adicionando o seu projeto e faça um pull request, seu caso será revisado e adicionado o mais breve possível.<BR>
