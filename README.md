@@ -21,6 +21,17 @@ Enviado por: Caio Moreno de Souza <caio@it4biz.com.br><BR>
 http://kleysonrios.blogspot.com.es/2013/09/secretaria-de-saude-do-estado-de-goias.html<BR>
 Enviado por: Kleyson Rios - @kleysonr<BR>
 
+
+Painel de Acompanhamento de Casos de Dengue
+http://extranet.saude.go.gov.br/dengue
+
+Painel de Acompanhamento de Nascidos Vivos(SINASC)
+http://extranet.saude.go.gov.br/genesis
+
+Painel de Acompanhamento de Influenza
+http://extranet.saude.go.gov.br/influenza
+Enviado por: Carlos Augusto Gonçalves Tibiriçá - carlos.tibirica@saude.go.gov.br<BR>
+
 ###TCE-SP
 http://iegm.tce.sp.gov.br/<BR>
 Enviado por: Rodrigo Porto<BR>
