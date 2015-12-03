@@ -40,5 +40,9 @@ Enviado por: Rodrigo Porto <rodrigo@sinn.com.br><BR>
 http://mercadodetrabalho.mte.gov.br/pentaho/api/repos/:public:OS004:OS004_INDEX.xaction/generatedContent?ts=1426337196521<BR>
 Enviado por: Ararigleno Fernandes <ararigleno@gmail.com><BR><BR>
 
+###SME-FORTALEZA (Ceará) - Sala de Situação da Secretaria Municipal da Educação de Fortaleza
+http://salasituacao.sme.fortaleza.ce.gov.br/
+Enviado por: Bruno Lima Alves <brunolimaalves85@gmail.com><BR><BR>
+
 ###Explicação de como adicionar um novo caso
 Se você tem algum caso real e deseja adicionar a esta lista por favor faça um fork do projeto, altere o arquivo README.md adicionando o seu projeto e faça um pull request, seu caso será revisado e adicionado o mais breve possível.<BR>
