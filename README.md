@@ -40,8 +40,18 @@ Enviado por: Rodrigo Porto <rodrigo@sinn.com.br><BR>
 http://mercadodetrabalho.mte.gov.br/pentaho/api/repos/:public:OS004:OS004_INDEX.xaction/generatedContent?ts=1426337196521<BR>
 Enviado por: Ararigleno Fernandes <ararigleno@gmail.com><BR><BR>
 
-###SME-FORTALEZA (Ceará) - Sala de Situação da Secretaria Municipal da Educação de Fortaleza
-http://salasituacao.sme.fortaleza.ce.gov.br/
+###SME-FORTALEZA (Ceará) - Sala de Situação da Secretaria Municipal da Educação de Fortaleza<BR>
+http://salasituacao.sme.fortaleza.ce.gov.br/<BR>
+<BR>Projeto desenvolvido com 2 frentes:<BR>
+1º) Servir a comunidade de Fortaleza. Na tela inicial temos todas as unidade escolares municipais mapeadas. Nessa tela
+a comunidade por buscar por escolas mais proximas, que ofertam uma determidada modalidade de ensino, vê a última avaliação
+nas avaliações IDEB e SPAECE.
+<BR>
+<BR>
+2º) Uma área restrita a gestão da Secretaria Municipal da Educação de Fortaleza para tomada de decisão. Contendo os seguintes<BR>
+Dashboards: Matrícula, IDEB, SPAECE, Unidades Escolares, Gestão de Pessoas (RH).
+<BR>
+
 Enviado por: Bruno Lima Alves <brunolimaalves85@gmail.com><BR><BR>
 
 ###Explicação de como adicionar um novo caso
